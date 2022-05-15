@@ -3,9 +3,9 @@
 A small program I made that deletes most of the C Drive and making the system almost usuable.
 You probably can't trick anyone into using this since it's quite obvious but it's possible for you to compile all the files so the file might look more legit.
 
--Disguised as a "hentai pic generator"
--Obfuscated (but you can deobf it if you want)
--Doesn't flag Windows Defender
+* Disguised as a "hentai pic generator"
+* Obfuscated (but you can deobf it if you want)
+* Doesn't flag Windows Defender
 
 *Only works on Windows.*
 
