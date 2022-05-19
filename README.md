@@ -21,7 +21,7 @@ You probably can't trick anyone into using this since it's quite obvious but it'
 
 ## Things to add in the future
 
-* Discord Token Logger - Doing
+* Discord Token Logger - Nearly Done
 * IP grabber - Not started yet
 * Silent file deleting - Doing
 * Compile all files into a single file - I have no idea how
